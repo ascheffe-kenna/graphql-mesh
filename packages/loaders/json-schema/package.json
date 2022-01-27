@@ -29,7 +29,7 @@
     "@types/graphql-upload": "8.0.10"
   },
   "dependencies": {
-    "cross-undici-fetch": "0.1.16",
+    "cross-undici-fetch": "0.1.19",
     "json-machete": "0.3.6",
     "@graphql-mesh/types": "0.57.2",
     "@graphql-mesh/utils": "0.26.0",
