@@ -1,5 +1,12 @@
 # json-schema-fhir
 
+## 0.0.157
+
+### Patch Changes
+
+- @graphql-mesh/cli@0.48.2
+- @graphql-mesh/json-schema@0.23.5
+
 ## 0.0.156
 
 ### Patch Changes

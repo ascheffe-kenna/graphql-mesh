@@ -1,5 +1,11 @@
 # @graphql-mesh/utils
 
+## 0.26.1
+
+### Patch Changes
+
+- 113091148: fix(utils): better error for missing types in incontext sdk
+
 ## 0.26.0
 
 ### Minor Changes
